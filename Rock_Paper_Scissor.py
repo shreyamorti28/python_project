@@ -1,6 +1,4 @@
 import random
-
-
 def get_user_choice():
     while True:
         user_choice = input("Enter your choice (rock, paper, scissors): ").lower()
